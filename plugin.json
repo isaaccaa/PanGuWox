@@ -1,0 +1,13 @@
+{
+    "ID":"221285c0-6c31-11eb-9439-0242ac130002",
+    "ActionKeyword":"pg",
+    "Name":"PanGuPython",
+    "Description":"Spilt",
+    "Author":"isaac",
+    "Version":"0.1",
+    "Language":"python",
+    "Website":"https://www.isaacc.top",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py",
+    "Disabled": true
+}
